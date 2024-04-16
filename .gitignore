@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 # What to ignore
 *.csv
+*.parquet
